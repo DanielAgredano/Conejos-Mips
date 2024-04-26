@@ -1,0 +1,50 @@
+C:/ModelSimProjects/Proyecto/Multiplexor.v {1 {vlog -work work -stats=none C:/ModelSimProjects/Proyecto/Multiplexor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Multiplexor
+
+Top level modules:
+	Multiplexor
+
+} {} {}} C:/ModelSimProjects/Proyecto/Todo.v {1 {vlog -work work -stats=none C:/ModelSimProjects/Proyecto/Todo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Todo
+
+Top level modules:
+	Todo
+
+} {} {}} C:/ModelSimProjects/Proyecto/ALU.v {1 {vlog -work work -stats=none C:/ModelSimProjects/Proyecto/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/ModelSimProjects/Proyecto/UnidadControl.v {1 {vlog -work work -stats=none C:/ModelSimProjects/Proyecto/UnidadControl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UnidadControl
+
+Top level modules:
+	UnidadControl
+
+} {} {}} C:/ModelSimProjects/Proyecto/Todo_TB.v {1 {vlog -work work -stats=none C:/ModelSimProjects/Proyecto/Todo_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Todo_TB
+
+Top level modules:
+	Todo_TB
+
+} {} {}} C:/ModelSimProjects/Proyecto/AluControl.v {1 {vlog -work work -stats=none C:/ModelSimProjects/Proyecto/AluControl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AluControl
+
+Top level modules:
+	AluControl
+
+} {} {}} C:/ModelSimProjects/Proyecto/Banco.v {1 {vlog -work work -stats=none C:/ModelSimProjects/Proyecto/Banco.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Bancoreg
+
+Top level modules:
+	Bancoreg
+
+} {} {}}

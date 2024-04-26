@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/ModelSimProjects/Proyecto
+vALU
+Z1 !s110 1714110456
+!i10b 1
+!s100 YZ3;`IOKgR3JFPogBl@cM3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`I>Ug<KAi9jZKIId1oQO>2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1714108078
+8C:/ModelSimProjects/Proyecto/ALU.v
+FC:/ModelSimProjects/Proyecto/ALU.v
+!i122 82
+Z4 L0 1 22
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1714110456.000000
+!s107 C:/ModelSimProjects/Proyecto/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto/ALU.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@a@l@u
+vAluControl
+Z9 !s110 1714110457
+!i10b 1
+!s100 E35Toj?1=5C6f=]jbJfZ?3
+R2
+INzg?mJ[ccg>FLCW9bbGYA3
+R3
+R0
+w1714108411
+8C:/ModelSimProjects/Proyecto/AluControl.v
+FC:/ModelSimProjects/Proyecto/AluControl.v
+!i122 89
+L0 1 28
+R5
+r1
+!s85 0
+31
+Z10 !s108 1714110457.000000
+!s107 C:/ModelSimProjects/Proyecto/AluControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto/AluControl.v|
+!i113 1
+R7
+R8
+n@alu@control
+vBancoreg
+R1
+!i10b 1
+!s100 J_ojklK:Z6gA0N@]UXCSm3
+R2
+Ih;BOThIga^iS@Nj^8mne^0
+R3
+R0
+w1714107981
+8C:/ModelSimProjects/Proyecto/Banco.v
+FC:/ModelSimProjects/Proyecto/Banco.v
+!i122 83
+L0 1 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ModelSimProjects/Proyecto/Banco.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto/Banco.v|
+!i113 1
+R7
+R8
+n@bancoreg
+vMemoria
+R1
+!i10b 1
+!s100 XAAL4CRfgg0=oXQb4kAO10
+R2
+InWJ4=9V36Rmo63alBEcfO0
+R3
+R0
+w1714110452
+8C:/ModelSimProjects/Proyecto/Memoria.v
+FC:/ModelSimProjects/Proyecto/Memoria.v
+!i122 84
+L0 3 32
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ModelSimProjects/Proyecto/Memoria.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto/Memoria.v|
+!i113 1
+R7
+R8
+n@memoria
+vMultiplexor
+R1
+!i10b 1
+!s100 >Bi8cQohMY;U=zjI==YKU1
+R2
+IXXVnlG<iDkMC2NUA4mYE83
+R3
+R0
+w1714018593
+8C:/ModelSimProjects/Proyecto/Multiplexor.v
+FC:/ModelSimProjects/Proyecto/Multiplexor.v
+!i122 85
+L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ModelSimProjects/Proyecto/Multiplexor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto/Multiplexor.v|
+!i113 1
+R7
+R8
+n@multiplexor
+vTodo
+R9
+!i10b 1
+!s100 OUZ3HnQEIifJGk=95<EUC2
+R2
+IO`W]3:iT[iEfd?UESeoHl0
+R3
+R0
+w1714108938
+8C:/ModelSimProjects/Proyecto/Todo.v
+FC:/ModelSimProjects/Proyecto/Todo.v
+!i122 86
+L0 1 81
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ModelSimProjects/Proyecto/Todo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto/Todo.v|
+!i113 1
+R7
+R8
+n@todo
+vTodo_TB
+R9
+!i10b 1
+!s100 3Qk4^0ER1c:B3W6jYQggz0
+R2
+IeV8lIhRgjo:X9h>:;VaTZ2
+R3
+R0
+w1714109874
+8C:/ModelSimProjects/Proyecto/Todo_TB.v
+FC:/ModelSimProjects/Proyecto/Todo_TB.v
+!i122 87
+L0 2 32
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/ModelSimProjects/Proyecto/Todo_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto/Todo_TB.v|
+!i113 1
+R7
+R8
+n@todo_@t@b
+vUnidadControl
+R9
+!i10b 1
+!s100 i1<XE<dI7iJXDM[W_jQ0g0
+R2
+I?O6XBzX;c9Qk93U_BF93[2
+R3
+R0
+w1714106769
+8C:/ModelSimProjects/Proyecto/UnidadControl.v
+FC:/ModelSimProjects/Proyecto/UnidadControl.v
+!i122 88
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/ModelSimProjects/Proyecto/UnidadControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto/UnidadControl.v|
+!i113 1
+R7
+R8
+n@unidad@control
