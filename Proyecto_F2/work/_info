@@ -1,0 +1,538 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ModelSimProjects/Verilog Fase 2
+vADD
+Z0 !s110 1715329856
+!i10b 1
+!s100 WOiY_XAlH4QYf2]jODh2d2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INKV9I6mfVCa`5WBJ2kb9l3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/ModelSimProjects/Proyecto_F2
+w1715326970
+Z4 8C:/ModelSimProjects/Proyecto_F2/ADD.v
+Z5 FC:/ModelSimProjects/Proyecto_F2/ADD.v
+!i122 77
+L0 1 11
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1715329856.000000
+Z8 !s107 C:/ModelSimProjects/Proyecto_F2/ADD.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/ADD.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@d@d
+vadd
+!s110 1715318734
+!i10b 1
+!s100 X6ZG]hJ1bYPGKjBX9MB;o0
+R1
+IeimP=[obL3o2ZhbWek7e`0
+R2
+R3
+w1715318421
+R4
+R5
+!i122 12
+L0 1 8
+R6
+r1
+!s85 0
+31
+!s108 1715318734.000000
+R8
+R9
+!i113 1
+R10
+R11
+vALU
+R0
+!i10b 1
+!s100 cN0la7`jS[R:F3__dVV^f1
+R1
+IdYI`mB:HzU[INXB4HXWl[3
+R2
+R3
+w1715327759
+8C:/ModelSimProjects/Proyecto_F2/ALU.v
+FC:/ModelSimProjects/Proyecto_F2/ALU.v
+!i122 78
+L0 1 24
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/ModelSimProjects/Proyecto_F2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/ALU.v|
+!i113 1
+R10
+R11
+n@a@l@u
+vALU_CTRL
+!s110 1715329961
+!i10b 1
+!s100 lJD4kdiFjZaE^@CJ2=9LT2
+R1
+I6SVBa72JbznV;MnSWH>^C1
+R2
+R3
+w1715329956
+Z12 8C:/ModelSimProjects/Proyecto_F2/AluControl.v
+Z13 FC:/ModelSimProjects/Proyecto_F2/AluControl.v
+!i122 91
+L0 1 27
+R6
+r1
+!s85 0
+31
+!s108 1715329961.000000
+Z14 !s107 C:/ModelSimProjects/Proyecto_F2/AluControl.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/AluControl.v|
+!i113 1
+R10
+R11
+n@a@l@u_@c@t@r@l
+vAluControl
+Z16 !s110 1715329349
+!i10b 1
+!s100 aH0eR92MOOcooR<HehM6g0
+R1
+Iab09>]RAR4dSPFK<PDTQ21
+R2
+R3
+w1715328071
+R12
+R13
+!i122 66
+Z17 L0 1 28
+R6
+r1
+!s85 0
+31
+Z18 !s108 1715329349.000000
+R14
+R15
+!i113 1
+R10
+R11
+n@alu@control
+vBancoreg
+R16
+!i10b 1
+!s100 H`h>Km4fW[P5ZZlkiQl^a3
+R1
+IIU2LB@N@;IG@F;?z^L5GJ0
+R2
+R3
+w1715328448
+Z19 8C:/ModelSimProjects/Proyecto_F2/Banco.v
+Z20 FC:/ModelSimProjects/Proyecto_F2/Banco.v
+!i122 67
+Z21 L0 1 29
+R6
+r1
+!s85 0
+31
+R18
+Z22 !s107 C:/ModelSimProjects/Proyecto_F2/Banco.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/Banco.v|
+!i113 1
+R10
+R11
+n@bancoreg
+vBAND
+!s110 1715329857
+!i10b 1
+!s100 8VK4i95V0ccf:DE2:0oCA0
+R1
+I^4k`U>NzVC;]z]a4SCQ`10
+R2
+R3
+w1715326981
+8C:/ModelSimProjects/Proyecto_F2/Branch_AND.v
+FC:/ModelSimProjects/Proyecto_F2/Branch_AND.v
+!i122 89
+L0 1 12
+R6
+r1
+!s85 0
+31
+!s108 1715329857.000000
+!s107 C:/ModelSimProjects/Proyecto_F2/Branch_AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/Branch_AND.v|
+!i113 1
+R10
+R11
+n@b@a@n@d
+vCTRL_U
+!s110 1715329986
+!i10b 1
+!s100 YSh^lkGdmI[OzbW47?;D43
+R1
+I=Na25?4Z?VQ5OG@_UCP171
+R2
+R3
+w1715329983
+Z24 8C:/ModelSimProjects/Proyecto_F2/UnidadControl.v
+Z25 FC:/ModelSimProjects/Proyecto_F2/UnidadControl.v
+!i122 93
+R17
+R6
+r1
+!s85 0
+31
+!s108 1715329986.000000
+Z26 !s107 C:/ModelSimProjects/Proyecto_F2/UnidadControl.v|
+Z27 !s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/UnidadControl.v|
+!i113 1
+R10
+R11
+n@c@t@r@l_@u
+vINS_MEM
+R0
+!i10b 1
+!s100 AD:3_2k4Ha[J?Y@DVR;a81
+R1
+Ifo@Jc^GX:e7=jEWcPB<?:0
+R2
+R3
+w1715329735
+Z28 8C:/ModelSimProjects/Proyecto_F2/Inst_Mem.v
+Z29 FC:/ModelSimProjects/Proyecto_F2/Inst_Mem.v
+!i122 81
+L0 1 21
+R6
+r1
+!s85 0
+31
+R7
+Z30 !s107 C:/ModelSimProjects/Proyecto_F2/Inst_Mem.v|
+Z31 !s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/Inst_Mem.v|
+!i113 1
+R10
+R11
+n@i@n@s_@m@e@m
+vInst_Mem
+R16
+!i10b 1
+!s100 =G8HC8fOg^JYRUMXA@BOC3
+R1
+I?c`1f:HZUWnV^9VPXG^Kd1
+R2
+R3
+w1715327269
+R28
+R29
+!i122 68
+L0 1 22
+R6
+r1
+!s85 0
+31
+R18
+R30
+R31
+!i113 1
+R10
+R11
+n@inst_@mem
+vMemoria
+R16
+!i10b 1
+!s100 B_F<0[UQ?C5`41mL1J0W03
+R1
+IXJ]<4hbz52E9bMEezQDb>2
+R2
+R3
+w1715328351
+Z32 8C:/ModelSimProjects/Proyecto_F2/Memoria.v
+Z33 FC:/ModelSimProjects/Proyecto_F2/Memoria.v
+!i122 69
+L0 3 25
+R6
+r1
+!s85 0
+31
+R18
+Z34 !s107 C:/ModelSimProjects/Proyecto_F2/Memoria.v|
+Z35 !s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/Memoria.v|
+!i113 1
+R10
+R11
+n@memoria
+vMultiplexor
+Z36 !s110 1715318735
+!i10b 1
+!s100 RW[G_0[WFQMeV1a]^DmDm1
+R1
+I?bIW>gBaJPg6EX1i:TCQM3
+R2
+R3
+Z37 w1715013182
+Z38 8C:/ModelSimProjects/Proyecto_F2/Multiplexor.v
+Z39 FC:/ModelSimProjects/Proyecto_F2/Multiplexor.v
+!i122 18
+L0 1 15
+R6
+r1
+!s85 0
+31
+Z40 !s108 1715318735.000000
+Z41 !s107 C:/ModelSimProjects/Proyecto_F2/Multiplexor.v|
+Z42 !s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/Multiplexor.v|
+!i113 1
+R10
+R11
+n@multiplexor
+vMultiplexor2
+R36
+!i10b 1
+!s100 1_T^DX:[Ai_M];U`dL]DN2
+R1
+IG@`j0fDciAhiG>?TiTno[2
+R2
+R3
+R37
+R38
+R39
+!i122 18
+L0 17 15
+R6
+r1
+!s85 0
+31
+R40
+R41
+R42
+!i113 1
+R10
+R11
+n@multiplexor2
+vMUX
+R0
+!i10b 1
+!s100 o^C0g1AUZLOEXQa2XSnnW0
+R1
+IV`Bb@S^c0[2c;H_zzj2Bo2
+R2
+R3
+Z43 w1715329635
+R38
+R39
+!i122 83
+L0 1 17
+R6
+r1
+!s85 0
+31
+R7
+R41
+R42
+!i113 1
+R10
+R11
+n@m@u@x
+vMUX_5
+R0
+!i10b 1
+!s100 9;28^bYQbT8C4ObNdbMCi0
+R1
+II1]8D`:]feM9Z`JFfBUcP0
+R2
+R3
+R43
+R38
+R39
+!i122 83
+L0 19 17
+R6
+r1
+!s85 0
+31
+R7
+R41
+R42
+!i113 1
+R10
+R11
+n@m@u@x_5
+vPC
+!s110 1715330054
+!i10b 1
+!s100 bkz;=Nl@CWjld[E4iW0e40
+R1
+IhcCIcI>QV1i4mlGXlL8U40
+R2
+R3
+w1715330045
+8C:/ModelSimProjects/Proyecto_F2/PC.v
+FC:/ModelSimProjects/Proyecto_F2/PC.v
+!i122 94
+L0 1 16
+R6
+r1
+!s85 0
+31
+!s108 1715330054.000000
+!s107 C:/ModelSimProjects/Proyecto_F2/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/PC.v|
+!i113 1
+R10
+R11
+n@p@c
+vREG_BANK
+R0
+!i10b 1
+!s100 hJmBVdJB`S4GYfMMHIfcR2
+R1
+I0Bl97k;K?OdTRczRkEH@;0
+R2
+R3
+w1715329767
+R19
+R20
+!i122 80
+R21
+R6
+r1
+!s85 0
+31
+R7
+R22
+R23
+!i113 1
+R10
+R11
+n@r@e@g_@b@a@n@k
+vRMEM
+!s110 1715329935
+!i10b 1
+!s100 z1mD?L@Mkg4WOin[=A0W<0
+R1
+I@Km@WY1i`ka9KzYFjJYcn0
+R2
+R3
+w1715329931
+R32
+R33
+!i122 90
+L0 3 24
+R6
+r1
+!s85 0
+31
+!s108 1715329935.000000
+R34
+R35
+!i113 1
+R10
+R11
+n@r@m@e@m
+vTB
+!s110 1715380225
+!i10b 1
+!s100 MaQ7joJR=G4dETB6>CGDY1
+R1
+I]jh[F9DE92GFVEU1AB@ND1
+R2
+R3
+w1715380217
+8C:/ModelSimProjects/Proyecto_F2/TB.v
+FC:/ModelSimProjects/Proyecto_F2/TB.v
+!i122 98
+L0 4 19
+R6
+r1
+!s85 0
+31
+!s108 1715380224.000000
+!s107 C:/ModelSimProjects/Proyecto_F2/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/TB.v|
+!i113 1
+R10
+R11
+n@t@b
+vTodo
+R0
+!i10b 1
+!s100 OUZ3HnQEIifJGk=95<EUC2
+R1
+IfR:cPg3^]aa6nY][^`BzP3
+R2
+R3
+w1714108938
+8C:/ModelSimProjects/Proyecto_F2/Todo.v
+FC:/ModelSimProjects/Proyecto_F2/Todo.v
+!i122 86
+L0 1 81
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/ModelSimProjects/Proyecto_F2/Todo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/Todo.v|
+!i113 1
+R10
+R11
+n@todo
+vTodo_F2
+!s110 1715380222
+!i10b 1
+!s100 dG1o=O65N[OdCD=?0@;bF2
+R1
+Id@XD>delSjfJYQYadjn`Q3
+R2
+R3
+w1715380117
+8C:/ModelSimProjects/Proyecto_F2/Todo_Fase2.v
+FC:/ModelSimProjects/Proyecto_F2/Todo_Fase2.v
+!i122 97
+L0 2 158
+R6
+r1
+!s85 0
+31
+!s108 1715380222.000000
+!s107 C:/ModelSimProjects/Proyecto_F2/Todo_Fase2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ModelSimProjects/Proyecto_F2/Todo_Fase2.v|
+!i113 1
+R10
+R11
+n@todo_@f2
+vUnidadControl
+!s110 1715329350
+!i10b 1
+!s100 50OG>1NF_W^3ilH2Ej2zH3
+R1
+I4:zQLG?QzNYm<]mBIKI5Y1
+R2
+R3
+w1715328183
+R24
+R25
+!i122 75
+R21
+R6
+r1
+!s85 0
+31
+!s108 1715329350.000000
+R26
+R27
+!i113 1
+R10
+R11
+n@unidad@control
